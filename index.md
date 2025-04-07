@@ -108,7 +108,7 @@ This is a pilot workshop, testing out a lesson that is still under development. 
 
 <p id="about-this-workshop">
   <strong>About this workshop:</strong>
-  This Software Carpentry course is an intermediate course in Python focusing on data anaylsis and visualisation using the Pandas library. It starts with some basic information about Python syntax, the Jupyter notebook interface, and move through how to import CSV files, using the Pandas package to work with data frames, how to calculate summary information from a data frame, and a brief introduction to plotting. It also demonstrates how to work with databases directly from Python.  Please see the course notes for further information or get in touch with us.
+  This Software Carpentry course is an intermediate course in Python focusing on data analysis and visualisation using the Pandas library. It starts with some basic information about Python syntax, the Jupyter notebook interface, and move through how to import CSV files, using the Pandas package to work with data frames, how to calculate summary information from a data frame, and a brief introduction to plotting. It also demonstrates how to work with databases directly from Python.  Please see the course notes for further information or get in touch with us.
 </p>
 
 <p id="course-notes">
